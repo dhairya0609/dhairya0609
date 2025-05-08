@@ -3,10 +3,10 @@
 ---
 
 ## 🌐 Socials:
-![LinkedIn](https://img.shields.io/badge/LinkedIn-3B7673?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dhairya-shah-3b7673235/)  
-![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/dhairya_03/)  
-![Codeforces](https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/dhairya_3)  
-![CodeChef](https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white)](https://www.codechef.com/users/dhairya_3)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-3B7673?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dhairya-shah-3b7673235/)  
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/dhairya_03/)  
+[![Codeforces](https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/dhairya_3)  
+[![CodeChef](https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white)](https://www.codechef.com/users/dhairya_3)  
 
 ---
 
