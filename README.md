@@ -8,7 +8,7 @@
 ---
 
 ## 📧 Connect with me:
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dhairya.s4@ahduni.edu.in)  
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dhairyashah693@gmail.com)  
 
 ---
 
