@@ -27,10 +27,10 @@ I'm a software engineer at **Trilogy Innovations (CodeNation)**, where I build L
 ### Writing
 
 <!-- BLOG-POST-LIST:START -->
-- [IPL 2026 Curtain Raiser - Why My Top 4 Look the Way They Do](https://medium.com/@dhairyashah693/ipl-2026-curtain-raiser-why-my-top-4-look-the-way-they-do-e45e9d05332e)
-- [Delhi Capitals: So Close, Yet So Far](https://medium.com/@dhairyashah693/delhi-capitals-so-close-yet-so-far-00a258dc1624)
-- [Sunrisers Hyderabad: Record Scores, Mediocre Results](https://medium.com/@dhairyashah693/sunrisers-hyderabad-record-scores-mediocre-results-190f44d9da74)
-- [Lucknow Super Giants: From Promising Newcomers to Perennial Underachievers](https://medium.com/@dhairyashah693/lucknow-super-giants-from-promising-newcomers-to-perennial-underachievers-79166f2c2f9b)
+- [IPL 2026 Curtain Raiser - Why My Top 4 Look the Way They Do](https://medium.com/@dhairyashah693/ipl-2026-curtain-raiser-why-my-top-4-look-the-way-they-do-e45e9d05332e?source=rss-0aec53158e4b------2)
+- [Delhi Capitals: So Close, Yet So Far](https://medium.com/@dhairyashah693/delhi-capitals-so-close-yet-so-far-00a258dc1624?source=rss-0aec53158e4b------2)
+- [Sunrisers Hyderabad: Record Scores, Mediocre Results](https://medium.com/@dhairyashah693/sunrisers-hyderabad-record-scores-mediocre-results-190f44d9da74?source=rss-0aec53158e4b------2)
+- [Lucknow Super Giants: From Promising Newcomers to Perennial Underachievers](https://medium.com/@dhairyashah693/lucknow-super-giants-from-promising-newcomers-to-perennial-underachievers-79166f2c2f9b?source=rss-0aec53158e4b------2)
 <!-- BLOG-POST-LIST:END -->
 
 [More on Medium →](https://medium.com/@dhairyashah693)
