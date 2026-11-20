@@ -13,8 +13,6 @@ I'm a software engineer at **Trilogy Innovations (CodeNation)**, where I build L
 
 | Project | What it is | Links |
 |---|---|---|
-| **SkillFound** | Job board with a match score and reasons on every listing, resume autofill, plain-English search and a hiring pipeline with ranked shortlists | [Live](https://skillfound-jobs.onrender.com/) · [Code](https://github.com/dhairya0609/SkillFound) |
-| **Live Translator** | Voice and text translation that keeps conversation context, with face-to-face mode, alternatives and romanised pronunciation | [Live](https://live-translator-app.onrender.com/) · [Code](https://github.com/dhairya0609/Real-Time-Speech-Translator) |
 | **Injury-risk detection** | YOLO detection of six landing-error risk factors in D-I basketball jump videos, 0.879 mAP@0.5 | [Paper](https://ieeexplore.ieee.org/document/10887636) · [Code](https://github.com/dhairya0609/Predicting-Biomechanical-Risk-Factors-for-Division---I-Women-s-Basketball-Athletes) |
 | **Barbell trajectory analysis** | Markerless barbell tracking from one camera that classifies the snatch trajectory and scores lift quality | [Journal](https://link.springer.com/article/10.1007/s42979-026-04875-z) · [Code](https://github.com/dhairya0609/Barbell-Trajectory-Tracking-for-Performance-Analysis-During-Snatch-Movement-in-Weightlifting) |
 
